@@ -1,1 +1,1 @@
-worker: node pLot.js
+worker nodemon pLot.js
