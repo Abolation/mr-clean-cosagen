@@ -1,6 +1,6 @@
 {
-  "name": "MrClean",
-  "description": "Cleaning 24/7",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
   "main": "pLot.js",
   "scripts": {
