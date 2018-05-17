@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Clean",
+  "description": "Cleaning 24/7",
+  "version": "0.0.0",
+  "main": "pLot.js",
+  "scripts": {
+    "start": "node pLot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
