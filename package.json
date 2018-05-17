@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "pLot.js",
+  "main": "bot.js",
   "scripts": {
-    "start": " pLot.js"
+    "start": " bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
