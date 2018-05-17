@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "pLot.js",
   "scripts": {
-    "start": "nodemon pLot.js"
+    "start": " pLot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
