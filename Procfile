@@ -1,1 +1,1 @@
-worker nodemon pLot.js
+worker node bot.js
